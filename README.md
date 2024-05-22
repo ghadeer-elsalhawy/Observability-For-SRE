@@ -1,5 +1,5 @@
 # Observability For SRE
-![[Observability For SRE 2.png]]
+[Header](Assets/Observability-For-SRE.png)
 >✏ If you can't measure it, you can't manage it.
 
 Table of Contents
